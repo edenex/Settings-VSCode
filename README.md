@@ -44,6 +44,7 @@
 - **Dracula**: Ao instalar esta extensão é possível deixar o visual do VS Code com uma aparência mais moderna, proporcionando melhor visualização de suas linhas de códigos.
 - **color highlight**: deixar a formatação do código hexadecimal exatamente com a cor da tag. Ao estilizar seu código em um arquivo .css, por exemplo, você terá a cor da tag que está usando no exato momento.
 - **Rocketseat ReactJS** e **Rocketseat React Native**: Estes dois plugins foram desenvolvidos pela empresa Rocketseat e ajudam a agilizar a criação de arquivos javascripts.
+- OBS: Pode ser necessário reinicar o VS Code para que estas extensões tenham efeito.
 
 ## Font Ligatures:
 ### Faz a junção de caracteres deixando o seu código ainda melhor de visualizar. Exemplo: Ao usar o sinal de "==" ou "==="  ou "!=" a font ligatures irá ligar os caracteres. Para isso é necessário instalar uma fonte especial chamada Fira Code.

@@ -56,4 +56,4 @@
   - OBS: Pode ser necessário reinicar o VS Code para que esta fonte tenha efeito.
 
 ---
-Feito com 🧡 by Edenir de Souza 😉
+Feito com 🧡 by [Edenir de Souza](https://github.com/edenex) 😉

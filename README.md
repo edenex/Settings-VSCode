@@ -4,13 +4,13 @@
 ![Image VS Code - Settings](Image-VSCode.png)
 
 ## :black_nib: Como utilizar:
-- No seu VS Code entre no menu File > Preferences > Settings.
-- Altere o arquivo .json das configurações do VS Code conforme abaixo.
+- No seu VS Code entre no menu ***File > Preferences > Settings***.
+- Altere o arquivo ***"settings.json"*** das configurações do VS Code conforme abaixo.
 - Cada linha está comentada, explicando sua funcionalidade.
 
 ## :dart: Configurando o arquivo "settings.json":
 
-```json
+```javascript
 {
   "window.zoomLevel": 0.2, //Zoom no editor
   "workbench.iconTheme": "material-icon-theme", // ícones para extensões dos arquivos
@@ -46,7 +46,7 @@
 - **Rocketseat ReactJS** e **Rocketseat React Native**: Estes dois plugins foram desenvolvidos pela empresa Rocketseat e ajudam a agilizar a criação de arquivos javascripts.
 
 ## Font Ligatures:
-#### Faz a junção de caracteres deixando o seu código ainda melhor de visualizar. Exemplo: Ao usar o sinal de "==" ou "==="  ou "!=" a font ligatures irá ligar os caracteres. Para isso é necessário instalar uma fonte especial chamada Fira Code.
+### Faz a junção de caracteres deixando o seu código ainda melhor de visualizar. Exemplo: Ao usar o sinal de "==" ou "==="  ou "!=" a font ligatures irá ligar os caracteres. Para isso é necessário instalar uma fonte especial chamada Fira Code.
 
 - **Fira Code**:
   - Procurar e baixar esta fonte da Internet.

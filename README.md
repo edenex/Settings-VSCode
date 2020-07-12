@@ -19,7 +19,7 @@
   "editor.fontFamily": "Fira Code", // fonte do font ligatures
   "editor.fontSize": 14, // tamanho padrão da fonte do editor
   "editor.fontLigatures": true, // font ligatures habilitado
-  "editor.rulers": [80, 120], // máximo de caracteres por linha=80, não ultrapassar de 120 de forma alguma
+  "editor.rulers": [80, 120], // cria uma barra verticual no seu editor na coluna 80 e ou barra na coluna 120. Ajuda perceber quando a linha do código ficou muita extensa
   "editor.renderLineHighlight": "gutter", // borda da linha
   "editor.tabSize": 2, // espaçamento em tab
   "terminal.integrated.fontSize": 14, // tamanho da fonte do terminal

@@ -1,4 +1,4 @@
-# README.MD: Settings VS Code
+# Settings VS Code
 ## Configurações básicas do Visual Studio Code para trabalhar com desenvolvimento web/mobile.
 
 ![Image VS Code - Settings](Image-VSCode.png)
